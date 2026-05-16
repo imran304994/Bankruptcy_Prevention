@@ -9,7 +9,7 @@ import plotly.graph_objects as go
 # Page Configuration
 # ------------------------------------------------
 st.set_page_config(
-    page_title="Bankruptcy Risk Analyzer",
+    page_title="bankruptcy Risk Analyzer",
     page_icon="📉",
     layout="wide"
 )
@@ -257,6 +257,6 @@ with tab3:
 # ------------------------------------------------
 st.write("---")
 st.markdown(
-    "<center>Developed by Shaik Rashid | AI Bankruptcy Intelligence System</center>",
+    "<center>Developed by Imran N P | AI Bankruptcy Intelligence System</center>",
     unsafe_allow_html=True
 )
